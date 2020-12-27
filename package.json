@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/achungerford/first-webpk/issues"
   },
-  "homepage": "https://github.com/achungerford/first-webpk#readme"
+  "homepage": "https://github.com/achungerford/first-webpk#readme",
+  "devDependencies": {
+    "webpack": "^5.11.0",
+    "webpack-cli": "^4.3.0"
+  }
 }
